@@ -3,6 +3,7 @@
 1. [乘方](#power)
 2. [整式](#integral_expression)
 3. [不等式](#inequality)
+4. 待续.....
 
 ## 内容：
 
