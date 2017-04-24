@@ -67,11 +67,6 @@
 <h3 id="fraction">分式</h3>
 
 - 把一个分式的分子与分母的公因式约去，叫做分式的**约分**(reduction of a fraction)
-
 - 约分后，分子与分母没有公因式的分式，叫做**最简分式**(fraction in lowest terms)
-
 - 把几个不同分母的分式化成同分母的分式，叫做分式的**通分**（reduction of fractions to a common denominator）
-
 - 为通分，要先确定个分式的公分母，一般取各分母的所有因式的最高次幂的积做公分母，它叫做**最简公分母**
-
-  ​
