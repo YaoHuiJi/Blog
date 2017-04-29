@@ -6,6 +6,7 @@
 4. [三角形](#traingle)
 5. [分式](#fraction)
 6. [函数](#function)
+7. [数据分析](#analysis)
 7. 待续.....
 
 ## 内容：
@@ -30,7 +31,7 @@
 - 任何不等于0的数的0次幂都等于1
 - **平方差公式：**两个数的和与这两个数的差的积，等于这两个数的平方差，即：![formula](https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=3972351108,2312720346&fm=58)
 - **完全平方公式：**![formula](https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=197666933,2478185337&fm=58)
-- **费马大定理：**当自然数n≥3时，方程![formula](https://imgsa.baidu.com/baike/s%3D82/sign=56bb2ed340a98226bcc126258b82ab45/5ab5c9ea15ce36d368462f9639f33a87e850b1d2.jpg)没有正整数解
+- **费马大定理：**当自然数n≥3时，关于x, y, z的方程 x^n + y^n = z^n 没有正整数解。
 
 <h3 id="inequality">不等式</h3>
 
@@ -83,3 +84,19 @@
 - 写出函数解析式，或者列表格，或者画函数图像，都可以表示具体的函数，这三种表示函数的方法，分别称为**解析法**，**列表法**和**图像法**
 - 一般地，形如y=kx（k是常数，k≠0）的函数，叫做**正比例函数**（proportional function）
 - 一般地，如果两个变量x、y之间的关系可以表示成y=k/x (k为常数，k≠0)的形式，那么称y是x的**反比例函数**（inverse proportional function）
+
+<h3 id="analysis">数据分析</h3>
+
+- 若n个数![x1x2](http://a.hiphotos.baidu.com/baike/s%3D103/sign=131fe85727dda3cc0fe4bc2032e83905/dc54564e9258d109ebf7d87ad858ccbf6d814de5.jpg)的权分别是![w1w2w3](http://b.hiphotos.baidu.com/baike/s%3D114/sign=54eda4069025bc312f5d05996ade8de7/d000baa1cd11728b3e08fdeac1fcc3cec2fd2cd4.jpg)，那么 ![x](http://a.hiphotos.baidu.com/baike/s%3D220/sign=a97f0af067061d957946303a4bf50a5d/1b4c510fd9f9d72a602763d5dd2a2834359bbbb2.jpg)叫做这n个数的**加权平均值**
+- 将一组数据按照从小到大(或从小到大)的顺序排列,如果数据的个数为奇数,则称处于中间位置的数为这组数据的**中位数**(median);如果数据的个数为偶数,则称中间两个数的平均数为这组数据的**中位数**
+- 一组数据中出现次数最多的数据成为这组数据的**众数**（mode）
+- **方差（variance）**是各个数据与其算术平均数的离差平方和的平均数，通常以σ2表示。
+- 方差越大，数据的波动越大。方差越小，数据的波动越小。
+- 方差的算术平方根是**标准差s**
+- **样本方差**与总体方差在计算上的区别是：总体方差是用数据个数或总频数去除离差平方和，而样本方差则是用样本数据个数或总频数减1去除离差平方和，其中样本数据个数减1即n－1称为自由度。
+- **总体方差**：![variance](http://wiki.mbalib.com/w/images/math/1/a/2/1a28eba1b3ca17b3cc16055d9ef32662.png)
+- **样本方差**：![S_{n-1}^2](http://wiki.mbalib.com/w/images/math/2/8/d/28d5626689ac08c8467e2b542280261d.png)
+- 一组数据中最大值与最小值的差成为这组数据的**极差**
+- **平均差（mean deviation）：**![pingjuncha](https://imgsa.baidu.com/baike/s%3D220/sign=f2ebfc4adab44aed5d4eb9e6831d876a/472309f79052982206fdc6c3d7ca7bcb0b46d4e0.jpg)
+- **加权平均差（average deviation）：**![jiaquanpingjuncha](https://imgsa.baidu.com/baike/s%3D220/sign=e743b9c4828ba61edbeecf2d713597cc/d1160924ab18972b8271bfc4e6cd7b899e510a70.jpg)(f是权重)
+ 
