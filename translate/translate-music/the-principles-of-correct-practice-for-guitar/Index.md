@@ -15,9 +15,9 @@
 > 更新日期：2017-04-16
 
 - Preface 
-- [**前言**](http://yaohuiji.com/2017/04/16/pcpg-preface/)
+- [**前言**](http://www.yaohuiji.com/2017/04/16/pcpg-preface/)
 - How to use this book 
-- **怎么使用这本书**
+- [**如何使用本书**](http://www.yaohuiji.com/2017/04/29/pcpg-how-to-use-this-book/)
 - Order of material 
 - **材料顺序**
 - Summary of understandings,tools,and exercises 
