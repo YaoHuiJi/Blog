@@ -7,7 +7,8 @@
 5. [分式](#fraction)
 6. [函数](#function)
 7. [数据分析](#analysis)
-8. 待续.....
+8. [一元二次方程](#quadratic-equation-in-one-unknown)
+9. 待续.....
 
 ## 内容：
 
@@ -100,3 +101,14 @@
 - **平均差（mean deviation）：**![pingjuncha](https://raw.githubusercontent.com/YaoHuiJi/Blog/master/images/平均差.jpg)
 - **加权平均差（average deviation）：**![jiaquanpingjuncha](https://raw.githubusercontent.com/YaoHuiJi/Blog/master/images/加权平均差.jpg)(f是权重)
 
+<h3 id="quadratic-equation-in-one-unknown">一元二次方程</h3>
+
+- 等号两边都是整式，指含有一个未知数（一元），并且未知数的最高次数为2（二次）的方程，叫做**一元二次方程**（quadratic equation in one unknown）
+- 使方程左右两边相等的未知数的值就是一元二次方程的解，一元二次方程的解也叫做一元二次方程的**根**（root）
+- 一元二次方程的**一般形式**：ax^2 + bx + c = 0 (a≠0)，其中ax^2是**二次项**，a是**二次项系数**，bx是**一次项**，b是**一次项系数**，c是**常数项**
+- **b^2-4ac**叫做一元二次方程的**判别式**，大于0时，方程有两个不相等的实数根**[-b±(b^2-4ac)^(1/2)]/2a**，等于0时，有2个相等的实数根**-b/2a**，小于0时，**没有实数根**
+- **解一元二次方程的几个方法**，思路都是想办法降次
+  - [-b±(b^2-4ac)^(1/2)]/2a叫做一元二次方程ax^2 + bx + c = 0的**求根公式**，用求根公式解一元二次方程的方式叫做**公式法**
+  - 把一元二次方程化为两个一次式的乘积等于0的形式，再使这两个一次式分别等于0，从而实现降次，这种解一元二次方程的方法叫做**因式分解法**
+  - 通过把一元二次方程配成完全平方![formula](https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=197666933,2478185337&fm=58)的形式来解一元二次方程的办法，叫做**配方法**
+- 任何一元二次方程的**根与系数的关系**为：两个根的和等于一次项系数于二次项系数的比的相反数（x1+x2=-b/a），两个根的积等于常数项于二次项系数的比(x1*x2=c/a)
